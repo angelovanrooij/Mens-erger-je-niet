@@ -1,0 +1,10 @@
+C:\Users\User\Documents\School\ICT\Proftaak\12\Software\Mens erger je niet\Mens erger je niet\bin\Debug\Mens erger je niet.exe.config
+C:\Users\User\Documents\School\ICT\Proftaak\12\Software\Mens erger je niet\Mens erger je niet\bin\Debug\Mens erger je niet.exe
+C:\Users\User\Documents\School\ICT\Proftaak\12\Software\Mens erger je niet\Mens erger je niet\bin\Debug\Mens erger je niet.pdb
+C:\Users\User\Documents\School\ICT\Proftaak\12\Software\Mens erger je niet\Mens erger je niet\obj\Debug\Mens erger je niet.csprojAssemblyReference.cache
+C:\Users\User\Documents\School\ICT\Proftaak\12\Software\Mens erger je niet\Mens erger je niet\obj\Debug\Mens_erger_je_niet.Properties.Resources.resources
+C:\Users\User\Documents\School\ICT\Proftaak\12\Software\Mens erger je niet\Mens erger je niet\obj\Debug\Mens erger je niet.csproj.GenerateResource.cache
+C:\Users\User\Documents\School\ICT\Proftaak\12\Software\Mens erger je niet\Mens erger je niet\obj\Debug\Mens erger je niet.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\School\ICT\Proftaak\12\Software\Mens erger je niet\Mens erger je niet\obj\Debug\Mens erger je niet.exe
+C:\Users\User\Documents\School\ICT\Proftaak\12\Software\Mens erger je niet\Mens erger je niet\obj\Debug\Mens erger je niet.pdb
+C:\Users\User\Documents\School\ICT\Proftaak\12\Software\Mens erger je niet\Mens erger je niet\obj\Debug\Mens_erger_je_niet.Form1.resources
